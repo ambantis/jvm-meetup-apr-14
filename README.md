@@ -5,6 +5,7 @@ Intro
 -----
 
 This presentation has two goals:
+
   1) explain how Scala can improve the developer experience and the bottom line
   2) ditto for Playframework!
 
