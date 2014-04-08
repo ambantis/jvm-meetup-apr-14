@@ -19,7 +19,8 @@ or refer to the documentation for your operating system (e.g. `apt-get install s
 To install Playframework, I encourage you to download it from
 [playframework.com](http://www.playframework.com/download) and follow these
 [instructions](http://www.playframework.com/documentation/2.2.x/Installing); you can also use your
-operating system repos
+operating system repos. The download link has two versions: activator & standalone. I will be using
+the standalone version.
 
 During the presentation, I will assume that if you brought your computer, you were able to get
 everything successfully installed. I will not be covering this material. If you hit a roadblock, please 
