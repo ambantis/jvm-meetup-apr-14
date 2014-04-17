@@ -116,6 +116,8 @@ Don't worry about what Monadic means. When you hear "Monadic" in Scala, just thi
 PowerPointish Stuff
 -------------------
 
+Here's the link to my presentation (in Google Drive): http://goo.gl/aLyfjd
+
 I'm going to make use of a couple of presentations already created about Playframework:
   1. [Play vs. Grails Smackdown](http://www.ubertracks.com/preso/#/intro)
   2. [Introduction to the Play Framework - Java Edition](http://presos.jamesward.com/introduction_to_the_play_framework-java/)
